@@ -328,3 +328,9 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Config file containing tokens and the like
+config.py
+
+# Virtual environments
+venv/
